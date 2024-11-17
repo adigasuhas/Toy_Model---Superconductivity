@@ -4,7 +4,6 @@ This repository contains two interactive Python GUI applications (GUI_2D and GUI
 Features
 
     GUI_2D: Simulates electron interactions and generates a 2D lattice based on the selected parameters.
-    GUI_3D: Extends the functionality to 3D configurations, providing a more detailed visualization of the electron forces.
     Adjustable Parameters:
         Lattice vibrations
         Atomic number
@@ -16,22 +15,22 @@ Installation
     Clone this repository:
 
     bash
-
-git clone https://github.com/yourusername/electron-force-simulation.git
-cd electron-force-simulation
+    git clone https://github.com/yourusername/electron-force-simulation.git
+    cd electron-force-simulation
 
 Install the required Python libraries: Numpy, Matplotlib, Tkinter
 
 
 Run the GUI applications:
 
-    python GUI_2D.py
-    python GUI_3D.py
-
+    python3 GUI_2D.py
+    
 How to Use
 
-    Open either GUI_2D or GUI_3D to start the simulation.
-    Use the sliders or input fields to change the lattice parameters, atomic number, or lattice vibrations.
+
+    Open either GUI_2D to start the simulation.
+    Run the python code in python3.6 or above
+    Use the dropdown or input fields to change the lattice parameters, atomic number, or lattice vibrations.
     Observe the changes in the electron force and lattice structure as you modify the parameters.
     Try different configurations to explore the possibility of Cooper pair formation.
 
