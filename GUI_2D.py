@@ -58,7 +58,7 @@ def graph_plot():
 
     x = λ 
 
-    # Calculate forces
+    # Calculating forces
     def calculate_force(N):
         Fleft = sum(
             ((2 * k * N * e**2) * ((2 * i - 1) * a) / 2)
@@ -115,8 +115,8 @@ def graph_plot():
     plt.yticks([])
     canvas2.draw()
 
-    force_func = calculate_force(n)  # Use the force calculation for the given N
-    result_value = force_func(x)  # Evaluate the net force at displacement x
+    force_func = calculate_force(n)  
+    result_value = force_func(x) 
     result_label.config(text=f"The net resultant force on electron - A is: {result_value:.2e} Newton")
 
 
