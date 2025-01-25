@@ -12,7 +12,7 @@ Explore Cooper Pair Formation: Tweak the parameters to explore conditions under 
 
     
 
-## Installation
+## Insructions to Use 
 
 Clone this repository:
 
@@ -26,7 +26,7 @@ Run the GUI applications:
 
     python3 GUI_2D.py
     
-## How to Use
+## How to Use ?
 
 
 - Run GUI_2D to start the simulation.
