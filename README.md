@@ -30,7 +30,7 @@ Run the GUI applications:
 ## How to Use
 
 
-- Open either GUI_2D to start the simulation.
+- Run GUI_2D to start the simulation.
 - Run the python code in python3.6 or above
 - Use the dropdown or input fields to change the lattice parameters, atomic number, or lattice vibrations.
 - Observe the changes in the electron force and lattice structure as you modify the parameters.
