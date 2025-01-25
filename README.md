@@ -3,16 +3,19 @@
 This repository contains two interactive Python GUI applications (GUI_2D and GUI_3D) that allow you to simulate and visualize the force between two electrons based on different configurations of atomic lattice vibrations, atomic number, and lattice parameters.
 Features
 
-    GUI_2D: Simulates electron interactions and generates a 2D lattice based on the selected parameters.
+ GUI_2D: Simulates electron interactions and generates a 2D lattice based on the selected parameters.
     Adjustable Parameters:
-       -  Lattice vibrations
-        Atomic number
-        Lattice parameter
-    Explore Cooper Pair Formation: Tweak the parameters to explore conditions under which Cooper pairs may form, a key aspect in understanding superconductivity.
+   - Lattice vibrations
+   - Atomic number
+   - Lattice parameter
+   - Explore Cooper Pair Formation: Tweak the parameters to explore conditions under which Cooper pairs may form, a key aspect in understanding superconductivity.
+   - Writing functions and defining classes
+
+    
 
 ## Installation
 
-    Clone this repository:
+Clone this repository:
 
     bash
     git clone https://github.com/yourusername/electron-force-simulation.git
@@ -28,11 +31,11 @@ Run the GUI applications:
 ## How to Use
 
 
-    Open either GUI_2D to start the simulation.
-    Run the python code in python3.6 or above
-    Use the dropdown or input fields to change the lattice parameters, atomic number, or lattice vibrations.
-    Observe the changes in the electron force and lattice structure as you modify the parameters.
-    Try different configurations to explore the possibility of Cooper pair formation.
+- Open either GUI_2D to start the simulation.
+- Run the python code in python3.6 or above
+- Use the dropdown or input fields to change the lattice parameters, atomic number, or lattice vibrations.
+- Observe the changes in the electron force and lattice structure as you modify the parameters.
+- Try different configurations to explore the possibility of Cooper pair formation.
 
 ## Author
 
