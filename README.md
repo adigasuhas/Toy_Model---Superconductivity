@@ -45,7 +45,7 @@ This tool is designed to be interactive and educational. Have fun tweaking the p
 Feel free to tweak this further to suit your style or project specifics!
 
 
-MIT License
+## MIT License
 
 Copyright (c) [2024] [Suhas Adiga]
 
