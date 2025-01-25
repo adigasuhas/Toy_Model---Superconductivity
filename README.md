@@ -25,7 +25,7 @@ Run the GUI applications:
 
     python3 GUI_2D.py
     
-How to Use
+## How to Use
 
 
     Open either GUI_2D to start the simulation.
