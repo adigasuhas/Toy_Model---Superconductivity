@@ -1,7 +1,7 @@
 # Electron Force Simulation GUI
 
 This repository contains two interactive Python GUI applications (GUI_2D) that allow you to simulate and visualize the force between two electrons based on different configurations of atomic lattice vibrations, atomic number, and lattice parameters.
-Features
+## Features
 
  ### GUI_2D: Simulates electron interactions and generates a 2D lattice based on the selected parameters.
   #### Adjustable Parameters:
