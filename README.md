@@ -5,7 +5,7 @@ Features
 
     GUI_2D: Simulates electron interactions and generates a 2D lattice based on the selected parameters.
     Adjustable Parameters:
-        Lattice vibrations
+       -  Lattice vibrations
         Atomic number
         Lattice parameter
     Explore Cooper Pair Formation: Tweak the parameters to explore conditions under which Cooper pairs may form, a key aspect in understanding superconductivity.
