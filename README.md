@@ -10,7 +10,7 @@ Features
         Lattice parameter
     Explore Cooper Pair Formation: Tweak the parameters to explore conditions under which Cooper pairs may form, a key aspect in understanding superconductivity.
 
-Installation
+## Installation
 
     Clone this repository:
 
