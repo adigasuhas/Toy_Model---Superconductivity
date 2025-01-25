@@ -4,7 +4,7 @@ This repository contains two interactive Python GUI applications (GUI_2D and GUI
 Features
 
  ### GUI_2D: Simulates electron interactions and generates a 2D lattice based on the selected parameters.
-    Adjustable Parameters:
+  #### Adjustable Parameters:
    - Lattice vibrations
    - Atomic number
    - Lattice parameter
