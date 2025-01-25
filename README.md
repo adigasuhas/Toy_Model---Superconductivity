@@ -17,8 +17,8 @@ Explore Cooper Pair Formation: Tweak the parameters to explore conditions under 
 Clone this repository:
 
     bash
-    git clone https://github.com/yourusername/electron-force-simulation.git
-    cd electron-force-simulation
+    git clone https://github.com/adigasuhas/Toy_Model---Superconductivity.git
+    cd Toy_Model---Superconductivity
 
 Install the required Python libraries: Numpy, Matplotlib, Tkinter
 
