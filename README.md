@@ -34,7 +34,7 @@ Run the GUI applications:
     Observe the changes in the electron force and lattice structure as you modify the parameters.
     Try different configurations to explore the possibility of Cooper pair formation.
 
-Author
+## Author
 
 Suhas Adiga is currently an Integrated PhD student at JNCASR, working on machine learning applications in high-Tc superconductors.
 
