@@ -1,5 +1,6 @@
 # Electron Force Simulation GUI
 [![Python 3.6+](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/release/python-306/)
+![Lattice Oscillation](Lattice.gif)
 
 This repository contains two interactive Python GUI applications (GUI_2D) that allow you to simulate and visualize the force between two electrons based on different configurations of atomic lattice vibrations, atomic number, and lattice parameters.
 ## Features
